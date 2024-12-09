@@ -15,5 +15,4 @@ ff02::3 ip6-allhosts
 
 
 0.0.0.0 sgspeed.igamecj.com
-0.0.0.0 reseller.*
-0.0.0.0 *.naravpn.com
+0.0.0.0 reseller.naravpn.com
