@@ -1,2 +1,3 @@
 sgspeed.igamecj.com
 reseller.*
+*.naravpn.com
