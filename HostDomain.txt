@@ -14,6 +14,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 0.0.0.0 reseller.naravpn.com
+0.0.0.0 i.toobm8.com
+0.0.0.0 bidmob.g2afse.com
+0.0.0.0 safe.mt2.cn
+0.0.0.0 sv1.mt2.cn
+0.0.0.0 log.byteoversea.com
+0.0.0.0 dc.cftls.t.co
+0.0.0.0 data-api.connectivityassistant.com
+0.0.0.0 xgapromomanager-pa.googleapis.com
+0.0.0.0 d2763msf1wgvw2.cloudfront.net
 0.0.0.0 sgspeed.igamecj.com
 0.0.0.0 qos.hk.gcloudcs.com
 0.0.0.0 ulogs.umengcloud.com
@@ -78,6 +87,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 sec.listdl.com
 0.0.0.0 pubgmobile-sg-community.playerinfinite.com
 0.0.0.0 sg-pubgmobile.playerinfinite.com
+:: i.toobm8.com
+:: bidmob.g2afse.com
+:: safe.mt2.cn
+:: sv1.mt2.cn
+:: log.byteoversea.com
+:: dc.cftls.t.co
+:: data-api.connectivityassistant.com
+:: xgapromomanager-pa.googleapis.com
+:: d2763msf1wgvw2.cloudfront.net
 :: sgspeed.igamecj.com
 :: qos.hk.gcloudcs.com
 :: ulogs.umengcloud.com
