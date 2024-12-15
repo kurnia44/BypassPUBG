@@ -13,6 +13,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 panel.hidessh.net
+:: panel.hidessh.net
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 api16-access-sg.pangle.io
