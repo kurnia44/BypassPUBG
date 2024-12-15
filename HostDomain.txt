@@ -14,6 +14,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 0.0.0.0 reseller.naravpn.com
+0.0.0.0 tnc16-useast1a.byteoversea.com
+0.0.0.0 tnc16-useast1a.isnssdk.com
+0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 i.toobm8.com
 0.0.0.0 bidmob.g2afse.com
 0.0.0.0 safe.mt2.cn
@@ -160,3 +163,6 @@ ff02::3 ip6-allhosts
 :: sec.listdl.com
 :: pubgmobile-sg-community.playerinfinite.com
 :: sg-pubgmobile.playerinfinite.com
+:: tnc16-useast1a.byteoversea.com
+:: tnc16-useast1a.isnssdk.com
+:: tnc16-alisg.byteoversea.com
