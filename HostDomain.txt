@@ -14,6 +14,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 0.0.0.0 reseller.naravpn.com
+0.0.0.0 prod-mediate-events.applovin.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.byteoversea.com
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnc16-alisg.byteoversea.com
@@ -166,3 +170,7 @@ ff02::3 ip6-allhosts
 :: tnc16-useast1a.byteoversea.com
 :: tnc16-useast1a.isnssdk.com
 :: tnc16-alisg.byteoversea.com
+:: prod-mediate-events.applovin.com
+:: configv2.unityads.unity3d.com
+:: api16-access-sg.pangle.io
+:: tnc16-alisg.isnssdk.com
