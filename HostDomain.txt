@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 tnc16-alisg.byteoversea.com.edgekey.net
+:: e11942.api3.akamaiedge.net
+:: tnc16-alisg.byteoversea.com.edgekey.net
+0.0.0.0 e11942.api3.akamaiedge.net
 0.0.0.0 tnc16-useast1a.byteoversea.com.edgekey.net
 0.0.0.0 e11942.api1.akamaiedge.net
 :: tnc16-useast1a.byteoversea.com.edgekey.net
