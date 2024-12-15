@@ -13,6 +13,16 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+:: a46.mm2.akamai.net
+:: tnc16-alisg.isnssdk.com.edgesuite.net
+:: tnc16-alisg.isnssdk.com
+:: tnc16-useast1a.isnssdk.com.edgekey.net
+:: e25691.a.akamaiedge.net
+0.0.0.0 a46.mm2.akamai.net
+0.0.0.0 tnc16-alisg.isnssdk.com.edgesuite.net
+0.0.0.0 tnc16-alisg.isnssdk.com
+0.0.0.0 tnc16-useast1a.isnssdk.com.edgekey.net
+0.0.0.0 e25691.a.akamaiedge.net
 0.0.0.0 tnc16-alisg.byteoversea.com.edgekey.net
 :: e11942.api3.akamaiedge.net
 :: tnc16-alisg.byteoversea.com.edgekey.net
