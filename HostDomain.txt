@@ -13,6 +13,14 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 api.club.gpubgm.com
+0.0.0.0 club-gpubgm.lmtlego.sched.apdcdn.com
+0.0.0.0 cdn.club.gpubgm.com
+0.0.0.0 pbs.twimg.com.cdn.cloudflare.net
+0.0.0.0 pbs.twimg.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 mcc-intl.inf.miui.com
+0.0.0.0 extranet-ipv4-pub-alisgp.alb.xiaomi.com
 0.0.0.0 cloudctrl.igamecj.com
 0.0.0.0 sg.voice.gcloudcs.com
 0.0.0.0 v.qq.com
@@ -201,3 +209,11 @@ ff02::3 ip6-allhosts
 :: v.qq.com
 :: resolver.msg.global.xiaomi.net
 :: profile.line-scdn.net
+:: api.club.gpubgm.com
+:: club-gpubgm.lmtlego.sched.apdcdn.com
+:: cdn.club.gpubgm.com
+:: pbs.twimg.com.cdn.cloudflare.net
+:: pbs.twimg.com
+:: firebaseremoteconfig.googleapis.com
+:: mcc-intl.inf.miui.com
+:: extranet-ipv4-pub-alisgp.alb.xiaomi.com
