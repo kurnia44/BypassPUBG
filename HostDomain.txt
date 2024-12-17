@@ -13,6 +13,11 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 cloudctrl.igamecj.com
+0.0.0.0 sg.voice.gcloudcs.com
+0.0.0.0 v.qq.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 profile.line-scdn.net
 0.0.0.0 a46.mm2.akamai.net
 0.0.0.0 tnc16-alisg.isnssdk.com.edgesuite.net
 0.0.0.0 tnc16-alisg.isnssdk.com
@@ -191,3 +196,8 @@ ff02::3 ip6-allhosts
 :: tnc16-alisg.byteoversea.com.edgekey.net
 :: tnc16-useast1a.byteoversea.com.edgekey.net
 :: e11942.api1.akamaiedge.net
+:: cloudctrl.igamecj.com
+:: sg.voice.gcloudcs.com
+:: v.qq.com
+:: resolver.msg.global.xiaomi.net
+:: profile.line-scdn.net
