@@ -13,6 +13,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 cdn2.pubgameshowtime.com
+0.0.0.0 o15z0m2a.ovslegodl.sched.ovscdns.com
 0.0.0.0 api.club.gpubgm.com
 0.0.0.0 club-gpubgm.lmtlego.sched.apdcdn.com
 0.0.0.0 cdn.club.gpubgm.com
@@ -217,3 +219,5 @@ ff02::3 ip6-allhosts
 :: firebaseremoteconfig.googleapis.com
 :: mcc-intl.inf.miui.com
 :: extranet-ipv4-pub-alisgp.alb.xiaomi.com
+:: cdn2.pubgameshowtime.com
+:: o15z0m2a.ovslegodl.sched.ovscdns.com
