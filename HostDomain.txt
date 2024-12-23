@@ -13,6 +13,15 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 android.clients.google.com
+0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 clientservices.googleapis.com
+0.0.0.0 clienttracing-pa.googleapis.com
+0.0.0.0 clients.google.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
 0.0.0.0 beacons.gvt3.com
 0.0.0.0 beacons1.gvt3.com
 0.0.0.0 beacons2.gvt3.com
@@ -249,3 +258,12 @@ ff02::3 ip6-allhosts
 :: beacons4.gvt2.com
 :: beacons5.gvt2.com
 :: beacons6.gvt2.com
+:: android.clients.google.com
+:: ogads-pa.clients6.google.com
+:: clientservices.googleapis.com
+:: clienttracing-pa.googleapis.com
+:: clients.google.com
+:: clients1.google.com
+:: clients2.google.com
+:: clients3.google.com
+:: clients4.google.com
