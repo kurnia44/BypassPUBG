@@ -1,0 +1,14 @@
+
+
+0.0.0.0 instagram.fcgk33-1.fna.fbcdn.net
+0.0.0.0 instagram.fcgk38-1.fna.fbcdn.net
+0.0.0.0 scontent.fcgk42-1.fna.fbcdn.net
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 instagram.fcgk42-1.fna.fbcdn.net
+0.0.0.0 lookaside.facebook.com
+:: instagram.fcgk33-1.fna.fbcdn.net
+:: instagram.fcgk38-1.fna.fbcdn.net
+:: scontent.fcgk42-1.fna.fbcdn.net
+:: platform-lookaside.fbsbx.com
+:: instagram.fcgk42-1.fna.fbcdn.net
+:: lookaside.facebook.com
