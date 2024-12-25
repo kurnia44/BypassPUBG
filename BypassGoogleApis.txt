@@ -13,6 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 android.apis.google.com
 0.0.0.0 sdk.irdatabase.com
@@ -169,3 +170,4 @@ ff02::3 ip6-allhosts
 :: id.google.com
 :: encrypted-tbn3.gstatic.com
 :: encrypted-tbn1.gstatic.com
+:: play-lh.googleusercontent.com
