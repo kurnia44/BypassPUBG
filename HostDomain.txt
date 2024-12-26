@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 sdk.api.oaid.wocloud.cn
+0.0.0.0 rabbit.meitustat.com
+0.0.0.0 adui.tg.meitu.com
+0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 d3pvfi6m7bxu71.cloudfront.net
 0.0.0.0 imdap-sea.alipay.com
 0.0.0.0 miniprogram.alipay-eco.com
@@ -301,3 +305,7 @@ ff02::3 ip6-allhosts
 :: api.club.gpubgm.com
 :: grpc.club.gpubgm.com
 :: d3pvfi6m7bxu71.cloudfront.net
+:: sdk.api.oaid.wocloud.cn
+:: rabbit.meitustat.com
+:: adui.tg.meitu.com
+:: api16-access-sg.pangle.io
