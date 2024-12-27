@@ -13,6 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 graph.facebook.com
 0.0.0.0 instagram.fcgk33-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk38-1.fna.fbcdn.net
 0.0.0.0 scontent.fcgk42-1.fna.fbcdn.net
@@ -25,3 +26,4 @@ ff02::3 ip6-allhosts
 :: platform-lookaside.fbsbx.com
 :: instagram.fcgk42-1.fna.fbcdn.net
 :: lookaside.facebook.com
+:: graph.facebook.com
