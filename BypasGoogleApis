@@ -1,3 +1,5 @@
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 calendarpushsubscription-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 locationhistory-pa.googleapis.com
 0.0.0.0 securitydomain-pa.googleapis.com
@@ -78,3 +80,5 @@
 :: notifications-pa.googleapis.com
 :: peoplestack-pa.googleapis.com
 :: youtubei.googleapis.com
+:: fonts.googleapis.com
+:: calendarpushsubscription-pa.googleapis.com
