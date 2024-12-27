@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+0.0.0.0 abs.twimg.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 down.anticheatexpert.com
+0.0.0.0 android.crashsight.wetest.net
 0.0.0.0 sdk.api.oaid.wocloud.cn
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 adui.tg.meitu.com
@@ -309,3 +313,7 @@ ff02::3 ip6-allhosts
 :: rabbit.meitustat.com
 :: adui.tg.meitu.com
 :: api16-access-sg.pangle.io
+:: abs.twimg.com
+:: googleads.g.doubleclick.net
+:: down.anticheatexpert.com
+:: android.crashsight.wetest.net
