@@ -13,6 +13,41 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
 0.0.0.0 0.0.0.0
 
+#Blok_Report
+0.0.0.0 report.qq.com
+0.0.0.0 game.qq.com
+0.0.0.0 gcloud.qq.com
+0.0.0.0 gcloud.qq.com/upload
+0.0.0.0 reportByPerfSight
+0.0.0.0 submitReport
+0.0.0.0 sendReportRequest
+0.0.0.0 PlayerReportManager::ReportPlayer
+0.0.0.0 ReportCheater
+0.0.0.0 report.server.com
+0.0.0.0 security.tencent.com
+0.0.0.0 tss.server.com
+0.0.0.0 anti-cheat.gcloud.com
+0.0.0.0 logs.server.com
+0.0.0.0 banreport.gcloud.com
+0.0.0.0 reportdata.upload.com
+0.0.0.0 safetycheck.server.com
+0.0.0.0 playerreport.gcloud.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 api.club.gpubgm.com
+0.0.0.0 papi.club.gpubgm.com
+0.0.0.0 vodreport.qcloud.com
+0.0.0.0 android.crashsight.wetest.net
+0.0.0.0 wspeed.qq.com
+0.0.0.0 h.trace.qq.com
+0.0.0.0 reportcomplaintpubgm.iegcom.com
+0.0.0.0 gvoice-config.igamecj.com
+0.0.0.0 sg.api.translator.voice.gcloudsdk.com
+0.0.0.0 sg-offline.gcloud.gcloudsdk.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 reportPlayer
+0.0.0.0 sendComplaint
+#end
+
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 dp3.play.aiseet.atianqi.com
 0.0.0.0 livep.l.aiseet.atianqi.com
