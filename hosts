@@ -19,33 +19,6 @@ ff02::3 ip6-allhosts
 
 ##############################
 # WhiteLists
-119.28.243.66 ig-us-sdkapi.igamecj.com
-119.28.244.50 download.2.1375135419.igame.gcloudcs.com
-119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
-119.28.242.15 lobby.igamecj.com
-119.28.147.30 krlobby.igamecj.com
-150.109.200.70 twlobby.igamecj.com
-150.109.35.246 vnglobby.igamecj.com
-150.109.35.246 vnlobby.igamecj.com
-49.51.66.167 na.apps.game.qq.com
-101.226.76.164 api.voice.gcloud.qq.com
-49.51.37.253 us.voice.gcloudcs.com
-49.51.82.48 bs.voice.gcloudcs.com
-49.51.153.41 de.voice.gcloudcs.com
-107.155.6.231 vn.voice.gcloudcs.com
-107.155.20.212 ae.voice.gcloudcs.com
-107.155.26.155 my.voice.gcloudcs.com
-119.28.103.231 id.voice.gcloudcs.com
-119.28.101.124 sg.voice.gcloudcs.com
-119.28.147.27 kr.voice.gcloudcs.com
-124.156.62.222 in.voice.gcloudcs.com
-128.1.35.174 th.voice.gcloudcs.com
-161.202.254.23 jp.voice.gcloudcs.com
-162.62.16.231 ru.voice.gcloudcs.com
-169.57.134.219 br.voice.gcloudcs.com
-192.254.86.86 tw.voice.gcloudcs.com
-203.205.219.49 cn.voice.gcloudcs.com
-203.205.219.148 hk.voice.gcloudcs.com
 ##############################
 # BlackLists with Wildcard
 183.251.254.51 .qq.com
