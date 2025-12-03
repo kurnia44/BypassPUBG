@@ -1,177 +1,310 @@
-127.0.0.1 localhost 
-127.0.0.1 localhost.localdomain 
-127.0.0.1 local 
-255.255.255.255 broadcasthost 
-::1 localhost 
-::1 ip6-localhost 
-::1 ip6-loopback 
-fe80::1%1o0 localhost 
-ff00::0 ip6-localnet 
-ff00::0 ip6-mcastprefix 
-ff02::1 ip6-allnodes 
-ff02::2 ip6-allrouters 
-ff02::3 ip6-allhosts 
-0.0.0.0 0.0.0.0
+// ================================================================
+// KODE BACKEND LENGKAP - TRANSFER UI (MAINTENANCE SUPPORT)
+// ================================================================
 
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 calendarpushsubscription-pa.googleapis.com
-0.0.0.0 play-lh.googleusercontent.com
-0.0.0.0 chromesyncpasswords-pa.googleapis.com
-0.0.0.0 android.apis.google.com
-0.0.0.0 sdk.irdatabase.com
-0.0.0.0 lookaside.facebook.com
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 firebaseperusertopics-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 findmydevice-pa.googleapis.com
-0.0.0.0 csi.gstatic.com
-0.0.0.0 cryptauthenrollment.googleapis.com
-0.0.0.0 auditrecording-pa.googleapis.com
-0.0.0.0 gameswhitelisted.googleapis.com
-0.0.0.0 games.googleapis.com
-0.0.0.0 nasional-okezone-com.cdn.ampproject.org
-0.0.0.0 content-autofill.googleapis.com
-0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 sdkconfig.intl.xiaomi.com
-0.0.0.0 sg.global.market.xiaomi.com
-0.0.0.0 lh3.googleusercontent.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 mon-va.tiktokv.com
-0.0.0.0 th.voice.gcloudcs.com
-0.0.0.0 lh6.googleusercontent.com
-0.0.0.0 lamssettings-pa.googleapis.com
-0.0.0.0 optimizationguide-pa.googleapis.com
-0.0.0.0 lh5.googleusercontent.com
-0.0.0.0 id.google.com
-0.0.0.0 encrypted-tbn3.gstatic.com
-0.0.0.0 encrypted-tbn1.gstatic.com
-0.0.0.0 semanticlocation-pa.googleapis.com
-0.0.0.0 locationhistory-pa.googleapis.com
-0.0.0.0 securitydomain-pa.googleapis.com
-0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
-0.0.0.0 playstoregatewayadapter-pa.googleapis.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 pubsub.googleapis.com
-0.0.0.0 play-fe.googleapis.com
-0.0.0.0 personalsafety-pa.googleapis.com
-0.0.0.0 xgapromomanager-pa.googleapis.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 deviceintegritytokens-pa.googleapis.com
-0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 proactivebackend-pa.googleapis.com
-0.0.0.0 update.googleapis.com
-0.0.0.0 userlocation.googleapis.com
-0.0.0.0 searchnotifications-pa.googleapis.com
-0.0.0.0 restrictedapps-pa.googleapis.com
-0.0.0.0 geller-pa.googleapis.com
-0.0.0.0 federatedcompute-pa.googleapis.com
-0.0.0.0 mobilemaps-pa-gz.googleapis.com
-0.0.0.0 spot-pa.googleapis.com
-0.0.0.0 playatoms-pa.googleapis.com
-0.0.0.0 cryptauthdevicesync.googleapis.com
-0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
-0.0.0.0 voledevice-pa.googleapis.com
-0.0.0.0 voilatile-pa.googleapis.com
-0.0.0.0 phonedeviceverification-pa.googleapis.com
-0.0.0.0 instantmessaging-pa.googleapis.com
-0.0.0.0 gnpfesdk-pa.googleapis.com
-0.0.0.0 scone-pa.googleapis.com
-0.0.0.0 clienttracing-pa.googleapis.com
-0.0.0.0 accountsettingsmobile-pa.googleapis.com
-0.0.0.0 clientservices.googleapis.com
-0.0.0.0 speechs3proto2-pa.googleapis.com
-0.0.0.0 locationhistoryaggregates-pa.googleapis.com
-0.0.0.0 notifications-pa.googleapis.com
-0.0.0.0 peoplestack-pa.googleapis.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 www.googleapis.com
-0.0.0.0 pubsub.googleapis.com
-0.0.0.0 spot-pa.googleapis.com
-0.0.0.0 lh3.googleusercontent.com
-0.0.0.0 optimizationguide-pa.googleapis.com
-0.0.0.0 content-autofill.googleapis.com
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 android.googleapis.com
-0.0.0.0 update.googleapis.com
-:: semanticlocation-pa.googleapis.com
-:: locationhistory-pa.googleapis.com
-:: securitydomain-pa.googleapis.com
-:: prod-lt-playstoregatewayadapter-pa.googleapis.com
-:: playstoregatewayadapter-pa.googleapis.com
-:: firebaseremoteconfig.googleapis.com
-:: pubsub.googleapis.com
-:: play-fe.googleapis.com
-:: personalsafety-pa.googleapis.com
-:: xgapromomanager-pa.googleapis.com
-:: crashlyticsreports-pa.googleapis.com
-:: firebaseinstallations.googleapis.com
-:: deviceintegritytokens-pa.googleapis.com
-:: firebaselogging.googleapis.com
-:: proactivebackend-pa.googleapis.com
-:: update.googleapis.com
-:: userlocation.googleapis.com
-:: searchnotifications-pa.googleapis.com
-:: restrictedapps-pa.googleapis.com
-:: geller-pa.googleapis.com
-:: federatedcompute-pa.googleapis.com
-:: mobilemaps-pa-gz.googleapis.com
-:: spot-pa.googleapis.com
-:: playatoms-pa.googleapis.com
-:: cryptauthdevicesync.googleapis.com
-:: firebaseremoteconfigrealtime.googleapis.com
-:: voledevice-pa.googleapis.com
-:: voilatile-pa.googleapis.com
-:: phonedeviceverification-pa.googleapis.com
-:: instantmessaging-pa.googleapis.com
-:: gnpfesdk-pa.googleapis.com
-:: scone-pa.googleapis.com
-:: clienttracing-pa.googleapis.com
-:: accountsettingsmobile-pa.googleapis.com
-:: clientservices.googleapis.com
-:: speechs3proto2-pa.googleapis.com
-:: locationhistoryaggregates-pa.googleapis.com
-:: notifications-pa.googleapis.com
-:: peoplestack-pa.googleapis.com
-:: youtubei.googleapis.com
-:: www.googleapis.com
-:: pubsub.googleapis.com
-:: spot-pa.googleapis.com
-:: lh3.googleusercontent.com
-:: optimizationguide-pa.googleapis.com
-:: content-autofill.googleapis.com
-:: safebrowsing.googleapis.com
-:: android.googleapis.com
-:: update.googleapis.com
-:: chromesyncpasswords-pa.googleapis.com
-:: android.apis.google.com
-:: sdk.irdatabase.com
-:: lookaside.facebook.com
-:: fundingchoicesmessages.google.com
-:: firebaseperusertopics-pa.googleapis.com
-:: firebaselogging-pa.googleapis.com
-:: findmydevice-pa.googleapis.com
-:: csi.gstatic.com
-:: cryptauthenrollment.googleapis.com
-:: auditrecording-pa.googleapis.com
-:: gameswhitelisted.googleapis.com
-:: games.googleapis.com
-:: nasional-okezone-com.cdn.ampproject.org
-:: content-autofill.googleapis.com
-:: footprints-pa.googleapis.com
-:: sdkconfig.intl.xiaomi.com
-:: sg.global.market.xiaomi.com
-:: lh3.googleusercontent.com
-:: sdkconfig.ad.intl.xiaomi.com
-:: mon-va.tiktokv.com
-:: th.voice.gcloudcs.com
-:: lh6.googleusercontent.com
-:: lamssettings-pa.googleapis.com
-:: optimizationguide-pa.googleapis.com
-:: lh5.googleusercontent.com
-:: id.google.com
-:: encrypted-tbn3.gstatic.com
-:: encrypted-tbn1.gstatic.com
-:: play-lh.googleusercontent.com
-:: fonts.googleapis.com
-:: calendarpushsubscription-pa.googleapis.com
+// --- KONFIGURASI ---
+// 1. Token Bot VALIDASI (Bot Lama/Utama)
+var TELEGRAM_BOT_TOKEN = "8238029335:AAFTyfRG9B5mZi04M_2feIr4_JxQ7X9pikM"; 
+
+// 2. Chat ID VALIDASI (Chat ID Admin)
+var CHAT_ID = "1441654753"; 
+
+// 3. Nama Sheet Validasi Token
+var SHEET_NAME = "Sheet1";
+
+// 4. Nama Sheet Trial
+var TRIAL_SHEET_NAME = "TrialUsers";
+
+// 5. Token Bot ORDER (Bot Baru)
+var ORDER_BOT_TOKEN = "7717843464:AAEu38flNxoQmP4p5Ku8lscgPJENV5z7ewQ"; 
+
+// 6. Chat ID ADMIN untuk ORDER
+var ORDER_CHAT_ID = "1441654753"; 
+
+// 7. Nama Sheet Konfigurasi (Remote Control Maintenance)
+var CONFIG_SHEET_NAME = "Config"; 
+// ------------------------------------------
+
+
+/**
+ * FUNGSI UTAMA: Cek Status Maintenance & Ambil Pesan Custom
+ * Mengembalikan Object: { active: boolean, message: string }
+ */
+function isSystemInMaintenance() {
+  try {
+    var ss = SpreadsheetApp.getActiveSpreadsheet();
+    var sheet = ss.getSheetByName(CONFIG_SHEET_NAME);
+    
+    // Jika sheet Config belum ada, buat otomatis
+    if (!sheet) {
+      sheet = ss.insertSheet(CONFIG_SHEET_NAME);
+      // Header
+      sheet.getRange("A1").setValue("STATUS MAINTENANCE (ON/OFF)").setFontWeight("bold");
+      sheet.getRange("B1").setValue("OFF").setBackground("#ccffcc"); // Default OFF (Hijau)
+      
+      sheet.getRange("A2").setValue("PESAN MAINTENANCE").setFontWeight("bold");
+      sheet.getRange("B2").setValue("Sistem sedang dalam perbaikan rutin untuk meningkatkan kualitas layanan.");
+      return { active: false, message: "" };
+    }
+    
+    // Baca Status (B1) dan Pesan (B2)
+    var status = sheet.getRange("B1").getValue().toString().toUpperCase().trim();
+    var customMsg = sheet.getRange("B2").getValue();
+    
+    // Jika B2 kosong, pakai pesan default
+    if (customMsg === "") {
+        customMsg = "Sistem sedang dalam perbaikan rutin untuk meningkatkan kualitas layanan.";
+    }
+    
+    if (status === "ON") {
+      return { active: true, message: customMsg };
+    }
+    
+    return { active: false, message: "" };
+  } catch (e) {
+    Logger.log("Gagal cek maintenance: " + e.message);
+    return { active: false, message: "" }; // Jika error, anggap normal
+  }
+}
+
+/**
+ * Fungsi Pembantu: Kirim Notifikasi ke Telegram (Bot Validasi)
+ */
+function sendTelegramNotification(message) {
+  var url = "https://api.telegram.org/bot" + TELEGRAM_BOT_TOKEN + "/sendMessage";
+  var payload = {
+    method: "post",
+    payload: {
+      chat_id: String(CHAT_ID),
+      text: message,
+      parse_mode: "HTML"
+    }
+  };
+
+  try {
+    UrlFetchApp.fetch(url, payload);
+  } catch (e) {
+    Logger.log("Gagal mengirim notifikasi Telegram: " + e);
+  }
+}
+
+// ================================================================
+// --- FUNGSI LOGIKA TRIAL (AMAN DENGAN LOCK) ---
+// ================================================================
+function handleTrialLogic(deviceId) {
+  var lock = LockService.getScriptLock();
+  var lockAcquired = false;
+  
+  try { 
+    // Coba kunci selama 15 detik
+    lockAcquired = lock.tryLock(15000); 
+    if (!lockAcquired) {
+      var busyResult = { status: "error", message: "Server sibuk. Coba lagi." };
+      return ContentService.createTextOutput(JSON.stringify(busyResult)).setMimeType(ContentService.MimeType.JSON);
+    }
+    
+    try { 
+      var ss = SpreadsheetApp.getActiveSpreadsheet();
+      var trialSheet = ss.getSheetByName(TRIAL_SHEET_NAME);
+      if (!trialSheet) {
+        trialSheet = ss.insertSheet(TRIAL_SHEET_NAME);
+        trialSheet.getRange("A1:E1").setValues([["DeviceId", "LoginCount", "MaxLimit", 2, "Default"]]); 
+      }
+      var data = trialSheet.getDataRange().getValues();
+      var defaultTrialLimit = 2; 
+      if (data.length > 0 && data[0][3]) defaultTrialLimit = parseInt(data[0][3], 10);
+      
+      var userRow = -1; 
+      var loginCount = 0;
+      var maxLimitForThisUser = 0; 
+      
+      // Cari User
+      for (var i = 1; i < data.length; i++) {
+        if (data[i][0] == deviceId) { 
+          userRow = i + 1; 
+          loginCount = parseInt(data[i][1], 10) || 0; 
+          maxLimitForThisUser = parseInt(data[i][2], 10) || 0; 
+          break;
+        }
+      }
+      var result = {};
+      
+      if (userRow === -1) { // User Baru
+        var newLoginCount = 1;
+        maxLimitForThisUser = defaultTrialLimit; 
+        trialSheet.appendRow([deviceId, newLoginCount, maxLimitForThisUser]);
+        var sisaTrial = Math.max(0, maxLimitForThisUser - newLoginCount);
+        result = { status: "success", message: "Trial sisa " + sisaTrial + "x.", expiryDate: "Trial", remainingLogins: sisaTrial };
+        sendTelegramNotification("🚀 TRIAL BARU\n<b>Device:</b> " + deviceId + "\n<b>Sisa:</b> " + sisaTrial);
+
+      } else if (loginCount < maxLimitForThisUser) { // User Lama Masih Ada Kuota
+        var newLoginCount = loginCount + 1;
+        trialSheet.getRange(userRow, 2).setValue(newLoginCount);
+        var sisaTrial = maxLimitForThisUser - newLoginCount;
+        result = { status: "success", message: "Trial sisa " + sisaTrial + "x.", expiryDate: "Trial", remainingLogins: sisaTrial };
+        sendTelegramNotification("🚀 TRIAL ULANG\n<b>Device:</b> " + deviceId + "\n<b>Sisa:</b> " + sisaTrial);
+
+      } else { // Habis
+        result = { status: "error", message: "Masa trial habis." };
+        sendTelegramNotification("❌ TRIAL HABIS\n<b>Device:</b> " + deviceId);
+      }
+      return ContentService.createTextOutput(JSON.stringify(result)).setMimeType(ContentService.MimeType.JSON);
+    
+    } catch (e) {
+      var errorResult = { status: "error", message: "Error Server Trial: " + e.message };
+      return ContentService.createTextOutput(JSON.stringify(errorResult)).setMimeType(ContentService.MimeType.JSON);
+    }
+
+  } finally {
+    if (lockAcquired) lock.releaseLock();
+  }
+}
+
+// ================================================================
+// --- HTTP GET: UNTUK VALIDASI TOKEN & TRIAL ---
+// ================================================================
+function doGet(e) {
+  // --- 1. CEK MAINTENANCE MODE ---
+  var maintCheck = isSystemInMaintenance();
+  
+  if (maintCheck.active) {
+    // Jika ON, kirim status maintenance + pesan custom
+    var maintResult = {
+      status: "maintenance",
+      message: maintCheck.message 
+    };
+    return ContentService.createTextOutput(JSON.stringify(maintResult))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+  // -------------------------------
+
+  var token = e.parameter.token;
+  var deviceId = e.parameter.deviceId; 
+  
+  // LOGIKA TRIAL
+  if (token === "TRIAL_REQUEST") {
+    if (!deviceId) return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "No DeviceId" })).setMimeType(ContentService.MimeType.JSON);
+    return handleTrialLogic(deviceId);
+  }
+  
+  // LOGIKA VALIDASI TOKEN PREMIUM
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(SHEET_NAME);
+  var dataRange = sheet.getRange(1, 1, sheet.getLastRow(), 5); 
+  var values = dataRange.getValues();
+  var result = { status: "error", message: "Token tidak ditemukan" };
+  var today = new Date();
+  today.setHours(0, 0, 0, 0); 
+  var tokenFound = false;
+
+  for (var i = 0; i < values.length; i++) {
+    if (values[i][0] == token) {
+      tokenFound = true;
+      var lock = LockService.getScriptLock();
+      var lockAcquired = false;
+      
+      try {
+        lockAcquired = lock.tryLock(15000);
+        if (!lockAcquired) {
+          result.status = "error"; result.message = "Server sibuk."; break;
+        }
+        
+        // Baca Data Terbaru
+        var rowData = sheet.getRange(i + 1, 1, 1, 5).getValues()[0];
+        var expiryDate = new Date(rowData[1]);
+        var storedDeviceId = rowData[2];
+        var loginLimit = rowData[3];
+        var loginCount = rowData[4];
+        
+        expiryDate.setHours(0, 0, 0, 0);
+        
+        // Cek Validitas
+        if (expiryDate < today) {
+          result.status = "error"; result.message = "Token Kadaluwarsa";
+        } else if (typeof loginLimit === 'number' && loginLimit > 0 && loginCount >= loginLimit) {
+          result.status = "error"; result.message = "Batas Login Habis";
+        } else if (storedDeviceId == "" || storedDeviceId == deviceId) {
+          // Sukses Login
+          var newCount = (typeof loginCount === 'number' ? loginCount : 0) + 1;
+          if (storedDeviceId == "") sheet.getRange(i + 1, 3).setValue(deviceId); // Kunci Device
+          sheet.getRange(i + 1, 5).setValue(newCount); // Tambah count
+          
+          result.status = "success";
+          result.message = "Token Valid";
+          var formattedExpiry = Utilities.formatDate(expiryDate, "GMT+7", "dd MMMM yyyy");
+          result.expiryDate = formattedExpiry;
+          result.remainingLogins = (typeof loginLimit === 'number' && loginLimit > 0) ? (loginLimit - newCount) : "Unlimited";
+          
+          sendTelegramNotification("✅ LOGIN SUKSES\n<b>Token:</b> " + token + "\n<b>Sisa:</b> " + result.remainingLogins);
+        } else {
+          result.status = "error"; result.message = "Token terkunci di device lain.";
+          sendTelegramNotification("❌ LOGIN GAGAL (Device Beda)\n<b>Token:</b> " + token);
+        }
+
+      } catch (e) {
+          result.status = "error"; result.message = "Error: " + e.message;
+      } finally {
+          if (lockAcquired) lock.releaseLock();
+      }
+      break;
+    }
+  }
+
+  return ContentService.createTextOutput(JSON.stringify(result)).setMimeType(ContentService.MimeType.JSON);
+}
+
+// ================================================================
+// --- HTTP POST: UNTUK ORDER TOKEN (TERIMA GAMBAR) ---
+// ================================================================
+function doPost(e) {
+  // --- 1. CEK MAINTENANCE MODE ---
+  var maintCheck = isSystemInMaintenance();
+  
+  if (maintCheck.active) {
+    var maintResult = {
+      status: "maintenance",
+      message: maintCheck.message 
+    };
+    return ContentService.createTextOutput(JSON.stringify(maintResult))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+  // -------------------------------
+
+  try {
+    var data = JSON.parse(e.postData.contents);
+    if (data.action === 'submitOrder') {
+      return handleOrderSubmit(data);
+    }
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Unknown Action"})).setMimeType(ContentService.MimeType.JSON);
+  } catch (error) {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Error POST: " + error.message})).setMimeType(ContentService.MimeType.JSON);
+  }
+}
+
+/**
+ * Fungsi Proses Order & Kirim Foto ke Telegram
+ */
+function handleOrderSubmit(data) {
+  var botToken = ORDER_BOT_TOKEN; 
+  var chatId = ORDER_CHAT_ID;     
+  var telegramUrl = "https://api.telegram.org/bot" + botToken + "/sendPhoto";
+
+  var caption = "<b>🔔 ORDER TOKEN BARU</b>\n\n<b>Device ID:</b> <code>" + data.deviceId + "</code>\n";
+  var cleanNumber = String(data.whatsapp).trim().replace(/[^0-9]/g, ''); 
+  if (cleanNumber.startsWith('0')) cleanNumber = '62' + cleanNumber.substring(1);
+  
+  caption += "<b>WA:</b> <a href='https://wa.me/" + cleanNumber + "'>" + data.whatsapp + "</a>\n";
+  caption += "<b>Paket:</b> " + data.tier + " | <b>Harga:</b> " + data.price;
+  
+  // Decode Base64 Image
+  var imageBlob = Utilities.newBlob(Utilities.base64Decode(data.image.split(',')[1]), 'image/png', 'bukti.png'); 
+
+  try {
+    UrlFetchApp.fetch(telegramUrl, {
+      'method': 'post',
+      'payload': { 'chat_id': String(chatId), 'caption': caption, 'parse_mode': 'HTML', 'photo': imageBlob }
+    });
+    return ContentService.createTextOutput(JSON.stringify({status: "success", message: "Order terkirim"})).setMimeType(ContentService.MimeType.JSON);
+  } catch (err) {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Gagal kirim: " + err.message})).setMimeType(ContentService.MimeType.JSON);
+  }
+}
