@@ -14,7 +14,7 @@ var CONFIG_SHEET_NAME = "Config";
 // --- SECURITY: PASSWORD ADMIN ---
 // Ganti "RAHASIA123" dengan password admin yang Anda inginkan!
 // Simpan password ini di sini (Server Side), JANGAN di HTML.
-var ADMIN_PASSWORD = "RAHASIA123"; 
+var ADMIN_PASSWORD = "."; 
 
 // ================================================================
 // --- FUNGSI ADMIN API (HANDLE POST REQUEST DARI ADMIN PANEL) ---
