@@ -1,517 +1,388 @@
-127.0.0.1 localhost 
-127.0.0.1 localhost.localdomain 
-127.0.0.1 local 
-255.255.255.255 broadcasthost 
-::1 localhost 
-::1 ip6-localhost 
-::1 ip6-loopback 
-fe80::1%1o0 localhost 
-ff00::0 ip6-localnet 
-ff00::0 ip6-mcastprefix 
-ff02::1 ip6-allnodes 
-ff02::2 ip6-allrouters 
-ff02::3 ip6-allhosts 
-0.0.0.0 0.0.0.0
+// ================================================================
+// KODE BACKEND LENGKAP - TRANSFER UI (ADMIN PANEL V2.0)
+// ================================================================
 
-#Blok_Report
-0.0.0.0 report.qq.com
-0.0.0.0 game.qq.com
-0.0.0.0 gcloud.qq.com
-0.0.0.0 gcloud.qq.com/upload
-0.0.0.0 reportByPerfSight
-0.0.0.0 submitReport
-0.0.0.0 sendReportRequest
-0.0.0.0 PlayerReportManager::ReportPlayer
-0.0.0.0 ReportCheater
-0.0.0.0 report.server.com
-0.0.0.0 security.tencent.com
-0.0.0.0 tss.server.com
-0.0.0.0 anti-cheat.gcloud.com
-0.0.0.0 logs.server.com
-0.0.0.0 banreport.gcloud.com
-0.0.0.0 reportdata.upload.com
-0.0.0.0 safetycheck.server.com
-0.0.0.0 playerreport.gcloud.com
-0.0.0.0 cloud.gsdk.proximabeta.com
-0.0.0.0 api.club.gpubgm.com
-0.0.0.0 papi.club.gpubgm.com
-0.0.0.0 vodreport.qcloud.com
-0.0.0.0 android.crashsight.wetest.net
-0.0.0.0 wspeed.qq.com
-0.0.0.0 h.trace.qq.com
-0.0.0.0 reportcomplaintpubgm.iegcom.com
-0.0.0.0 gvoice-config.igamecj.com
-0.0.0.0 sg.api.translator.voice.gcloudsdk.com
-0.0.0.0 sg-offline.gcloud.gcloudsdk.com
-0.0.0.0 qos.hk.gcloudcs.com
-0.0.0.0 reportPlayer
-0.0.0.0 sendComplaint
-0.0.0.0 reportcomplaintpubgm.iegcom.com
-0.0.0.0 gcloud.qq.com
-0.0.0.0 openplatform.qq.com
-0.0.0.0 gamemaster.qq.com
-0.0.0.0 marsxlog.tencent.com
-0.0.0.0 anti-cheat.tencent.com
-0.0.0.0 intlcompliance.iegcom.com
-0.0.0.0 security.tencent.com
-0.0.0.0 blacklist.tencent.com
-0.0.0.0 suspend.pubgm.com
-0.0.0.0 violation.pubgmobile.com
-0.0.0.0 reportcomplaintpubgm.iegcom.com
-0.0.0.0 gcloud.qq.com
-0.0.0.0 openplatform.qq.com
-0.0.0.0 gamemaster.qq.com
-0.0.0.0 marsxlog.tencent.com
-0.0.0.0 anti-cheat.tencent.com
-0.0.0.0 intlcompliance.iegcom.com
-0.0.0.0 security.tencent.com
-0.0.0.0 blacklist.tencent.com
-0.0.0.0 suspend.pubgm.com
-0.0.0.0 violation.pubgmobile.com
-0.0.0.0 crashsight.tencent.com
-0.0.0.0 itop.qq.com
-0.0.0.0 pandora.qq.com
-0.0.0.0 rooster.nn.tencent.com
-0.0.0.0 datamaster.qq.com
-0.0.0.0 anogs.tencent.com
-0.0.0.0 cubehawk.qq.com
-0.0.0.0 specialgem.qq.com
-0.0.0.0 tgpa.qq.com
-0.0.0.0 transceiver.qq.com
-0.0.0.0 pixui.qq.com
-0.0.0.0 pixuiCurl.qq.com
-0.0.0.0 swappy.qq.com
-0.0.0.0 meemo_mmkv.qq.com
-0.0.0.0 av1d.qq.com
-0.0.0.0 av1d_jni.qq.com
-0.0.0.0 gnustl_shared.qq.com
-0.0.0.0 ijkffmpeg.qq.com
-0.0.0.0 AnoSDKGetReportData  
-0.0.0.0 AnoSDKDelReportData  
-0.0.0.0 GetReportData  
-0.0.0.0 ReportExceptionPRVEiRKNS_9UQMStringES3_S3_RKNS_9UQMVectorINS_9UQMKVPairELj16EEES3_bi  
-0.0.0.0 ConfigCrashReporter  
-0.0.0.0 Java_com_centauri_oversea_api_CocosPayHelper_OnReprovideResult  
-0.0.0.0 _ZN6GCloud10CrashSight15CrashSightAgent19ConfigCrashReporterEi  
-0.0.0.0 flag  
-0.0.0.0 flags  
-0.0.0.0 reportfla
-0.0.0.0 banpan.pubgmobile.com
-0.0.0.0 banwave.pubgmobile.com
-0.0.0.0 antiban.tencent.com
-0.0.0.0 blacklist.pubgmobile.com
-0.0.0.0 monitor.qq.com
-0.0.0.0 monitor.helpshift.com
-0.0.0.0 btrace.qq.com
-0.0.0.0 mtrace.qq.com
-0.0.0.0 trace-report.tgp.qq.com
-0.0.0.0 bugreportsen0
-0.0.0.0 errorreporting
-0.0.0.0 eventreportcom
-0.0.0.0 networkreport
-0.0.0.0 onclientreport
-0.0.0.0 onenvreportdt
-0.0.0.0 isync.tencent.qq.com
-0.0.0.0 isync.proximabeta.com
-0.0.0.0 syncme.helpshift.com
-0.0.0.0 anticheat.pubgmobile.com
-0.0.0.0 anticheat.tencent.com
-0.0.0.0 anticheatexpert.com
-0.0.0.0 security.pubgmobile.com
-0.0.0.0 security.tencent.com
-0.0.0.0 check.ptlogin2.qq.com
-0.0.0.0 android.crashsight.wetest.net
-0.0.0.0 log.qq.com
-0.0.0.0 syslog.helpshift.com
-0.0.0.0 report.qq.com
-0.0.0.0 game.qq.com
-0.0.0.0 gcloud.qq.com
-0.0.0.0 gcloud.qq.com/upload
-0.0.0.0 reportByPerfSight
-0.0.0.0 submitReport
-0.0.0.0 sendReportRequest
-0.0.0.0 PlayerReportManager::ReportPlayer
-0.0.0.0 ReportCheater
-0.0.0.0 report.server.com
-0.0.0.0 security.tencent.com
-0.0.0.0 tss.server.com
-0.0.0.0 anti-cheat.gcloud.com
-0.0.0.0 logs.server.com
-0.0.0.0 banreport.gcloud.com
-0.0.0.0 reportdata.upload.com
-0.0.0.0 safetycheck.server.com
-0.0.0.0 playerreport.gcloud.com
-0.0.0.0 cloud.gsdk.proximabeta.com
-0.0.0.0 api.club.gpubgm.com
-0.0.0.0 papi.club.gpubgm.com
-0.0.0.0 vodreport.qcloud.com
-0.0.0.0 android.crashsight.wetest.net
-0.0.0.0 wspeed.qq.com
-0.0.0.0 h.trace.qq.com
-0.0.0.0 reportcomplaintpubgm.iegcom.com
-0.0.0.0 gvoice-config.igamecj.com
-0.0.0.0 sg.api.translator.voice.gcloudsdk.com
-0.0.0.0 sg-offline.gcloud.gcloudsdk.com
-0.0.0.0 qos.hk.gcloudcs.com
-0.0.0.0 reportPlayer
-0.0.0.0 sendComplaint
-#end
+// --- KONFIGURASI ---
+var TELEGRAM_BOT_TOKEN = "8238029335:AAFTyfRG9B5mZi04M_2feIr4_JxQ7X9pikM"; 
+var CHAT_ID = "1441654753"; 
+var SHEET_NAME = "Sheet1";      // Tab Data User Premium
+var TRIAL_SHEET_NAME = "TrialUsers";
+var ORDER_BOT_TOKEN = "7717843464:AAEu38flNxoQmP4p5Ku8lscgPJENV5z7ewQ"; 
+var ORDER_CHAT_ID = "1441654753"; 
+var CONFIG_SHEET_NAME = "Config"; 
 
-0.0.0.0 aiseet.aa.atianqi.com
-0.0.0.0 dp3.play.aiseet.atianqi.com
-0.0.0.0 livep.l.aiseet.atianqi.com
-0.0.0.0 lives.l.aiseet.atianqi.com
-0.0.0.0 vmindhls.tc.qq.com
-0.0.0.0 monitor-uu.play.aiseet.atianqi.com
-0.0.0.0 sdkconfig.play.aiseet.atianqi.com
-0.0.0.0 c.l.qq.com
-0.0.0.0 mdevstat.qqlive.qq.com
-0.0.0.0 bs.l.qq.com
-0.0.0.0 c2.l.qq.com
-0.0.0.0 cb.l.qq.com
-0.0.0.0 cm.l.qq.com
-0.0.0.0 hm.l.qq.com
-0.0.0.0 l.qq.com
-0.0.0.0 l2.l.qq.com
-0.0.0.0 lb.l.qq.com
-0.0.0.0 livec.l.qq.com
-0.0.0.0 livem.l.qq.com
-0.0.0.0 livep.l.qq.com
-0.0.0.0 lives.l.qq.com
-0.0.0.0 ls.l.qq.com
-0.0.0.0 p2.l.qq.com
-0.0.0.0 p3.l.qq.com
-0.0.0.0 t.l.qq.com
-0.0.0.0 vd.l.qq.com
-0.0.0.0 w.l.qq.com
-0.0.0.0 abs.twimg.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 down.anticheatexpert.com
-0.0.0.0 android.crashsight.wetest.net
-0.0.0.0 sdk.api.oaid.wocloud.cn
-0.0.0.0 rabbit.meitustat.com
-0.0.0.0 adui.tg.meitu.com
-0.0.0.0 api16-access-sg.pangle.io
-0.0.0.0 d3pvfi6m7bxu71.cloudfront.net
-0.0.0.0 imdap-sea.alipay.com
-0.0.0.0 miniprogram.alipay-eco.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 isp-map.xunyou.mobi
-0.0.0.0 portal-sg.xunyou.mobi
-0.0.0.0 pay.xunyou.mobi
-0.0.0.0 www.google-analytics.com
-0.0.0.0 sun6-21.userapi.com
-0.0.0.0 sun6-20.userapi.com
-0.0.0.0 sun6-23.userapi.com
-0.0.0.0 sun6-22.userapi.com
-0.0.0.0 web.gpubgm.com
-0.0.0.0 cdn.club.gpubgm.com
-0.0.0.0 api.club.gpubgm.com
-0.0.0.0 grpc.club.gpubgm.com
-0.0.0.0 cloud.vmp.onezapp.com
-0.0.0.0 android.clients.google.com
-0.0.0.0 ogads-pa.clients6.google.com
-0.0.0.0 clientservices.googleapis.com
-0.0.0.0 clienttracing-pa.googleapis.com
-0.0.0.0 clients.google.com
-0.0.0.0 clients1.google.com
-0.0.0.0 clients2.google.com
-0.0.0.0 clients3.google.com
-0.0.0.0 clients4.google.com
-0.0.0.0 beacons.gvt3.com
-0.0.0.0 beacons1.gvt3.com
-0.0.0.0 beacons2.gvt3.com
-0.0.0.0 beacons3.gvt3.com
-0.0.0.0 beacons4.gvt3.com
-0.0.0.0 beacons5.gvt3.com
-0.0.0.0 beacons6.gvt3.com
-0.0.0.0 beacons.gvt2.com
-0.0.0.0 beacons1.gvt2.com
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons3.gvt2.com
-0.0.0.0 beacons4.gvt2.com
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 beacons6.gvt2.com
-0.0.0.0 cdn2.pubgameshowtime.com
-0.0.0.0 o15z0m2a.ovslegodl.sched.ovscdns.com
-0.0.0.0 api.club.gpubgm.com
-0.0.0.0 club-gpubgm.lmtlego.sched.apdcdn.com
-0.0.0.0 cdn.club.gpubgm.com
-0.0.0.0 pbs.twimg.com.cdn.cloudflare.net
-0.0.0.0 pbs.twimg.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 mcc-intl.inf.miui.com
-0.0.0.0 extranet-ipv4-pub-alisgp.alb.xiaomi.com
-0.0.0.0 cloudctrl.igamecj.com
-0.0.0.0 sg.voice.gcloudcs.com
-0.0.0.0 v.qq.com
-0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 profile.line-scdn.net
-0.0.0.0 a46.mm2.akamai.net
-0.0.0.0 tnc16-alisg.isnssdk.com.edgesuite.net
-0.0.0.0 tnc16-alisg.isnssdk.com
-0.0.0.0 tnc16-useast1a.isnssdk.com.edgekey.net
-0.0.0.0 e25691.a.akamaiedge.net
-0.0.0.0 tnc16-alisg.byteoversea.com.edgekey.net
-0.0.0.0 e11942.api3.akamaiedge.net
-0.0.0.0 tnc16-useast1a.byteoversea.com.edgekey.net
-0.0.0.0 e11942.api1.akamaiedge.net
-0.0.0.0 prod-mediate-events.applovin.com
-0.0.0.0 configv2.unityads.unity3d.com
-0.0.0.0 api16-access-sg.pangle.io
-0.0.0.0 tnc16-alisg.isnssdk.com
-0.0.0.0 tnc16-useast1a.byteoversea.com
-0.0.0.0 tnc16-useast1a.isnssdk.com
-0.0.0.0 tnc16-alisg.byteoversea.com
-0.0.0.0 i.toobm8.com
-0.0.0.0 bidmob.g2afse.com
-0.0.0.0 safe.mt2.cn
-0.0.0.0 sv1.mt2.cn
-0.0.0.0 log.byteoversea.com
-0.0.0.0 dc.cftls.t.co
-0.0.0.0 data-api.connectivityassistant.com
-0.0.0.0 xgapromomanager-pa.googleapis.com
-0.0.0.0 d2763msf1wgvw2.cloudfront.net
-0.0.0.0 sgspeed.igamecj.com
-0.0.0.0 qos.hk.gcloudcs.com
-0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 cloud.gsdk.proximabeta.com
-0.0.0.0 gw.zamcs.com
-0.0.0.0 napubgm-broker.2zicwe5yt7z6.eo.dnse1.com
-0.0.0.0 napubgm.broker.amsoveasea.com
-0.0.0.0 nawzryhwatm.broker.amsoveasea.com
-0.0.0.0 broker-1314297.vasdgame.com
-0.0.0.0 sg.tdatamaster.com
-0.0.0.0 sgspeed.igamecj.com
-0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
-0.0.0.0 hkspeed.igamecj.com
-0.0.0.0 publicfaas.vasdgame.com
-0.0.0.0 ns-open1.qq.com
-0.0.0.0 ns-open2.qq.com
-0.0.0.0 ns-open3.qq.com
-0.0.0.0 api.helpshift.com
-0.0.0.0 pay.igamecj.com
-0.0.0.0 hyupaimods.comdown.anticheatexpert.com
-0.0.0.0 down.gamelet.games
-0.0.0.0 ig-us-sdkapi.igamecj.com
-0.0.0.0 ig-us-sdkapi-clb.igamecj.com
-0.0.0.0 file.igamecj.com
-0.0.0.0 anticheatexpert.comns-open1.qq.com
-0.0.0.0 thirdqq.qlogo.cn
-0.0.0.0 thirdwx.qlogo.cn
-0.0.0.0 webide2.amsoveasea.com
-0.0.0.0 krspeed.igamecj.com
-0.0.0.0 hkspeed.igamecj.com
-0.0.0.0 gecko-sg.byteoversea.com
-0.0.0.0 ig-us-notice.igamecj.com
-0.0.0.0 intlsdk.igamecj.com
-0.0.0.0 mon.byteoversea.com
-0.0.0.0 pubgmpdrcdn.amsoveasea.com
-0.0.0.0 g2600-1413-3800-0004-0000-0000-172d-cfac.deploy.static.akamaitechnologies.com
-0.0.0.0 in2-gw2-04-3d6c3051.eastus2.cloudapp.azure.com
-0.0.0.0 adx-api.bobbleapp.me
-0.0.0.0 intlsdk-dr.igamecj.com
-0.0.0.0 safegroup.igamecj.com
-0.0.0.0 rumt-sg.com
-0.0.0.0 imptrk.siteplug.com
-0.0.0.0 imdap-sea.alipay.com
-0.0.0.0 common-web.intlgame.com
-0.0.0.0 napubgm-broker.2zicwe5yt7z6.eo.dnse1.com
-0.0.0.0 file.igamecj.com
-0.0.0.0 dl.listdl.com
-0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 aaid.umeng.com
-0.0.0.0 ulogs.umeng.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 isp-map.xunyou.mobi
-0.0.0.0 v45.gpm.byteoversea.net
-0.0.0.0 pull-fcdn-base4.s.bytefcdn-oversea.com
-0.0.0.0 mcc.intl.inf.miui.com
-0.0.0.0 protocol.anticheat.update.cn
-0.0.0.0 www.tencentcloud.com
-0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
-0.0.0.0 overdue.aliyun.com
-0.0.0.0 dl.listdl.com
-0.0.0.0 url-detect.engine.mi.com
-0.0.0.0 sec.listdl.com
-0.0.0.0 pubgmobile-sg-community.playerinfinite.com
-0.0.0.0 sg-pubgmobile.playerinfinite.com
-:: i.toobm8.com
-:: bidmob.g2afse.com
-:: safe.mt2.cn
-:: sv1.mt2.cn
-:: log.byteoversea.com
-:: dc.cftls.t.co
-:: data-api.connectivityassistant.com
-:: xgapromomanager-pa.googleapis.com
-:: d2763msf1wgvw2.cloudfront.net
-:: sgspeed.igamecj.com
-:: qos.hk.gcloudcs.com
-:: ulogs.umengcloud.com
-:: cloud.gsdk.proximabeta.com
-:: gw.zamcs.com
-:: napubgm-broker.2zicwe5yt7z6.eo.dnse1.com
-:: napubgm.broker.amsoveasea.com
-:: nawzryhwatm.broker.amsoveasea.com
-:: broker-1314297.vasdgame.com
-:: sg.tdatamaster.com
-:: sgspeed.igamecj.com
-:: asia.csoversea.mbgame.anticheatexpert.com
-:: hkspeed.igamecj.com
-:: publicfaas.vasdgame.com
-:: ns-open1.qq.com
-:: ns-open2.qq.com
-:: ns-open3.qq.com
-:: api.helpshift.com
-:: pay.igamecj.com
-:: hyupaimods.comdown.anticheatexpert.com
-:: down.gamelet.games
-:: ig-us-sdkapi.igamecj.com
-:: ig-us-sdkapi-clb.igamecj.com
-:: file.igamecj.com
-:: anticheatexpert.comns-open1.qq.com
-:: thirdqq.qlogo.cn
-:: thirdwx.qlogo.cn
-:: webide2.amsoveasea.com
-:: krspeed.igamecj.com
-:: hkspeed.igamecj.com
-:: gecko-sg.byteoversea.com
-:: ig-us-notice.igamecj.com
-:: intlsdk.igamecj.com
-:: mon.byteoversea.com
-:: pubgmpdrcdn.amsoveasea.com
-:: g2600-1413-3800-0004-0000-0000-172d-cfac.deploy.static.akamaitechnologies.com
-:: in2-gw2-04-3d6c3051.eastus2.cloudapp.azure.com
-:: adx-api.bobbleapp.me
-:: intlsdk-dr.igamecj.com
-:: safegroup.igamecj.com
-:: rumt-sg.com
-:: imptrk.siteplug.com
-:: imdap-sea.alipay.com
-:: common-web.intlgame.com
-:: napubgm-broker.2zicwe5yt7z6.eo.dnse1.com
-:: file.igamecj.com
-:: dl.listdl.com
-:: ulogs.umengcloud.com
-:: aaid.umeng.com
-:: ulogs.umeng.com
-:: beacons.gcp.gvt2.com
-:: isp-map.xunyou.mobi
-:: v45.gpm.byteoversea.net
-:: pull-fcdn-base4.s.bytefcdn-oversea.com
-:: mcc.intl.inf.miui.com
-:: protocol.anticheat.update.cn
-:: www.tencentcloud.com
-:: puffer.4.1375135419.igame.gcloudcs.com
-:: overdue.aliyun.com
-:: dl.listdl.com
-:: url-detect.engine.mi.com
-:: sec.listdl.com
-:: pubgmobile-sg-community.playerinfinite.com
-:: sg-pubgmobile.playerinfinite.com
-:: tnc16-useast1a.byteoversea.com
-:: tnc16-useast1a.isnssdk.com
-:: tnc16-alisg.byteoversea.com
-:: prod-mediate-events.applovin.com
-:: configv2.unityads.unity3d.com
-:: api16-access-sg.pangle.io
-:: tnc16-alisg.isnssdk.com
-:: a46.mm2.akamai.net
-:: tnc16-alisg.isnssdk.com.edgesuite.net
-:: tnc16-alisg.isnssdk.com
-:: tnc16-useast1a.isnssdk.com.edgekey.net
-:: e25691.a.akamaiedge.net
-:: e11942.api3.akamaiedge.net
-:: tnc16-alisg.byteoversea.com.edgekey.net
-:: tnc16-useast1a.byteoversea.com.edgekey.net
-:: e11942.api1.akamaiedge.net
-:: cloudctrl.igamecj.com
-:: sg.voice.gcloudcs.com
-:: v.qq.com
-:: resolver.msg.global.xiaomi.net
-:: profile.line-scdn.net
-:: api.club.gpubgm.com
-:: club-gpubgm.lmtlego.sched.apdcdn.com
-:: cdn.club.gpubgm.com
-:: pbs.twimg.com.cdn.cloudflare.net
-:: pbs.twimg.com
-:: firebaseremoteconfig.googleapis.com
-:: mcc-intl.inf.miui.com
-:: extranet-ipv4-pub-alisgp.alb.xiaomi.com
-:: cdn2.pubgameshowtime.com
-:: o15z0m2a.ovslegodl.sched.ovscdns.com
-:: beacons.gvt3.com
-:: beacons1.gvt3.com
-:: beacons2.gvt3.com
-:: beacons3.gvt3.com
-:: beacons4.gvt3.com
-:: beacons5.gvt3.com
-:: beacons6.gvt3.com
-:: beacons.gvt2.com
-:: beacons1.gvt2.com
-:: beacons2.gvt2.com
-:: beacons3.gvt2.com
-:: beacons4.gvt2.com
-:: beacons5.gvt2.com
-:: beacons6.gvt2.com
-:: android.clients.google.com
-:: ogads-pa.clients6.google.com
-:: clientservices.googleapis.com
-:: clienttracing-pa.googleapis.com
-:: clients.google.com
-:: clients1.google.com
-:: clients2.google.com
-:: clients3.google.com
-:: clients4.google.com
-:: cloud.vmp.onezapp.com
-:: imdap-sea.alipay.com
-:: miniprogram.alipay-eco.com
-:: www.googletagmanager.com
-:: isp-map.xunyou.mobi
-:: portal-sg.xunyou.mobi
-:: pay.xunyou.mobi
-:: www.google-analytics.com
-:: sun6-21.userapi.com
-:: sun6-20.userapi.com
-:: sun6-23.userapi.com
-:: sun6-22.userapi.com
-:: web.gpubgm.com
-:: cdn.club.gpubgm.com
-:: api.club.gpubgm.com
-:: grpc.club.gpubgm.com
-:: d3pvfi6m7bxu71.cloudfront.net
-:: sdk.api.oaid.wocloud.cn
-:: rabbit.meitustat.com
-:: adui.tg.meitu.com
-:: api16-access-sg.pangle.io
-:: abs.twimg.com
-:: googleads.g.doubleclick.net
-:: down.anticheatexpert.com
-:: android.crashsight.wetest.net
-:: aiseet.aa.atianqi.com
-:: dp3.play.aiseet.atianqi.com
-:: livep.l.aiseet.atianqi.com
-:: lives.l.aiseet.atianqi.com
-:: vmindhls.tc.qq.com
-:: monitor-uu.play.aiseet.atianqi.com
-:: sdkconfig.play.aiseet.atianqi.com
-:: c.l.qq.com
-:: mdevstat.qqlive.qq.com
-:: bs.l.qq.com
-:: c2.l.qq.com
-:: cb.l.qq.com
-:: cm.l.qq.com
-:: hm.l.qq.com
-:: l.qq.com
-:: l2.l.qq.com
-:: lb.l.qq.com
-:: livec.l.qq.com
-:: livem.l.qq.com
-:: livep.l.qq.com
-:: lives.l.qq.com
-:: ls.l.qq.com
-:: p2.l.qq.com
-:: p3.l.qq.com
-:: t.l.qq.com
-:: vd.l.qq.com
-:: w.l.qq.com
+// --- SECURITY: PASSWORD ADMIN ---
+// Ganti "RAHASIA123" dengan password admin yang Anda inginkan!
+// Simpan password ini di sini (Server Side), JANGAN di HTML.
+var ADMIN_PASSWORD = "."; 
+
+// ================================================================
+// --- FUNGSI ADMIN API (HANDLE POST REQUEST DARI ADMIN PANEL) ---
+// ================================================================
+function handleAdminRequest(data) {
+  
+  // 1. Verifikasi Password Admin
+  if (data.password !== ADMIN_PASSWORD) {
+    return ContentService.createTextOutput(JSON.stringify({
+      status: "error", 
+      message: "Password Salah!"
+    })).setMimeType(ContentService.MimeType.JSON);
+  }
+
+  // 2. Routing Aksi
+  try {
+    switch (data.subAction) {
+      
+      // --- MAINTENANCE ---
+      case 'getMaintenance':
+        return getMaintenanceStatus();
+        
+      case 'setMaintenance':
+        return setMaintenanceStatus(data.status, data.reason);
+        
+      // --- USER MANAGEMENT ---
+      case 'getAllUsers':
+        return getAllUsers();
+        
+      case 'addUser':
+        return addUser(data.token, data.expiry, data.limit);
+        
+      case 'editUser':
+        return editUser(data.oldToken, data.newToken, data.expiry, data.limit, data.resetDevice);
+        
+      case 'deleteUser':
+        return deleteUser(data.token);
+        
+      default:
+        return ContentService.createTextOutput(JSON.stringify({
+          status: "error", message: "Unknown Admin Action"
+        })).setMimeType(ContentService.MimeType.JSON);
+    }
+  } catch (e) {
+    return ContentService.createTextOutput(JSON.stringify({
+      status: "error", message: "Server Error: " + e.message
+    })).setMimeType(ContentService.MimeType.JSON);
+  }
+}
+
+// --- FUNGSI MAINTENANCE ---
+function getMaintenanceStatus() {
+  var check = isSystemInMaintenance(); // Pakai fungsi helper yg sudah ada
+  // Tapi kita butuh return JSON untuk Admin Panel
+  return ContentService.createTextOutput(JSON.stringify({
+    status: "success",
+    active: check.active,
+    reason: check.message
+  })).setMimeType(ContentService.MimeType.JSON);
+}
+
+function setMaintenanceStatus(status, reason) {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(CONFIG_SHEET_NAME);
+  
+  if (!sheet) { // Buat sheet jika belum ada
+    sheet = ss.insertSheet(CONFIG_SHEET_NAME);
+    sheet.getRange("A1").setValue("STATUS MAINTENANCE (ON/OFF)");
+    sheet.getRange("A2").setValue("PESAN MAINTENANCE");
+  }
+  
+  sheet.getRange("B1").setValue(status); // "ON" atau "OFF"
+  sheet.getRange("B2").setValue(reason);
+  
+  return ContentService.createTextOutput(JSON.stringify({
+    status: "success",
+    message: "Maintenance updated to " + status
+  })).setMimeType(ContentService.MimeType.JSON);
+}
+
+// --- FUNGSI USER MANAGEMENT (SHEET1) ---
+function getAllUsers() {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(SHEET_NAME);
+  if (!sheet) return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Sheet User not found"})).setMimeType(ContentService.MimeType.JSON);
+  
+  // Ambil semua data (abaikan header baris 1)
+  // Kolom: Token(A), Expired(B), DeviceId(C), MaxLimit(D), Used(E)
+  var lastRow = sheet.getLastRow();
+  if (lastRow < 2) {
+    return ContentService.createTextOutput(JSON.stringify({status: "success", users: []})).setMimeType(ContentService.MimeType.JSON);
+  }
+  
+  var data = sheet.getRange(2, 1, lastRow - 1, 5).getValues();
+  var users = [];
+  
+  for (var i = 0; i < data.length; i++) {
+    // Format tanggal expired agar terbaca mudah
+    var expDate = "";
+    if (data[i][1] instanceof Date) {
+      expDate = Utilities.formatDate(data[i][1], "GMT+7", "yyyy-MM-dd");
+    } else {
+      expDate = String(data[i][1]); // jaga-jaga kalau string
+    }
+    
+    users.push({
+      token: data[i][0],
+      expiry: expDate,
+      deviceId: data[i][2],
+      limit: data[i][3],
+      used: data[i][4]
+    });
+  }
+  
+  return ContentService.createTextOutput(JSON.stringify({
+    status: "success", 
+    users: users
+  })).setMimeType(ContentService.MimeType.JSON);
+}
+
+function addUser(token, expiry, limit) {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(SHEET_NAME);
+  
+  // Cek duplikat token
+  var data = sheet.getDataRange().getValues();
+  for (var i=0; i<data.length; i++) {
+    if (data[i][0] == token) {
+      return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Token sudah ada!"})).setMimeType(ContentService.MimeType.JSON);
+    }
+  }
+  
+  sheet.appendRow([token, expiry, "", limit, 0]); // Device ID kosong, Used 0
+  
+  return ContentService.createTextOutput(JSON.stringify({
+    status: "success", message: "User berhasil ditambahkan"
+  })).setMimeType(ContentService.MimeType.JSON);
+}
+
+function editUser(oldToken, newToken, expiry, limit, resetDevice) {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(SHEET_NAME);
+  var data = sheet.getDataRange().getValues();
+  var found = false;
+  
+  for (var i = 1; i < data.length; i++) { // Skip header
+    if (data[i][0] == oldToken) {
+      // Update Data (Ingat index array 0, tapi row spreadsheet i+1)
+      var row = i + 1;
+      
+      sheet.getRange(row, 1).setValue(newToken);
+      sheet.getRange(row, 2).setValue(expiry);
+      sheet.getRange(row, 4).setValue(limit);
+      
+      if (resetDevice) {
+        sheet.getRange(row, 3).setValue(""); // Hapus Device ID
+        // Opsional: Reset Used Count juga jika mau (sheet.getRange(row, 5).setValue(0);)
+      }
+      
+      found = true;
+      break;
+    }
+  }
+  
+  if (found) {
+    return ContentService.createTextOutput(JSON.stringify({status: "success", message: "User berhasil diedit"})).setMimeType(ContentService.MimeType.JSON);
+  } else {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Token lama tidak ditemukan"})).setMimeType(ContentService.MimeType.JSON);
+  }
+}
+
+function deleteUser(token) {
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(SHEET_NAME);
+  var data = sheet.getDataRange().getValues();
+  
+  for (var i = 1; i < data.length; i++) {
+    if (data[i][0] == token) {
+      sheet.deleteRow(i + 1);
+      return ContentService.createTextOutput(JSON.stringify({status: "success", message: "User dihapus"})).setMimeType(ContentService.MimeType.JSON);
+    }
+  }
+  
+  return ContentService.createTextOutput(JSON.stringify({status: "error", message: "User tidak ditemukan"})).setMimeType(ContentService.MimeType.JSON);
+}
+
+
+// ================================================================
+// --- FUNGSI EXISTING (GET, POST ORDER, TRIAL, MAINTENANCE) ---
+// ================================================================
+
+/**
+ * UTAMA: Cek Status Maintenance
+ */
+function isSystemInMaintenance() {
+  try {
+    var ss = SpreadsheetApp.getActiveSpreadsheet();
+    var sheet = ss.getSheetByName(CONFIG_SHEET_NAME);
+    
+    if (!sheet) {
+      sheet = ss.insertSheet(CONFIG_SHEET_NAME);
+      sheet.getRange("A1").setValue("STATUS MAINTENANCE (ON/OFF)").setFontWeight("bold");
+      sheet.getRange("B1").setValue("OFF").setBackground("#ccffcc"); 
+      sheet.getRange("A2").setValue("PESAN MAINTENANCE").setFontWeight("bold");
+      sheet.getRange("B2").setValue("Sistem sedang dalam perbaikan rutin.");
+      return { active: false, message: "" };
+    }
+    
+    var status = sheet.getRange("B1").getValue().toString().toUpperCase().trim();
+    var customMsg = sheet.getRange("B2").getValue();
+    if (customMsg === "") customMsg = "Sistem sedang dalam perbaikan rutin.";
+    
+    if (status === "ON") {
+      return { active: true, message: customMsg };
+    }
+    return { active: false, message: "" };
+  } catch (e) {
+    return { active: false, message: "" };
+  }
+}
+
+function sendTelegramNotification(message) {
+  var url = "https://api.telegram.org/bot" + TELEGRAM_BOT_TOKEN + "/sendMessage";
+  try {
+    UrlFetchApp.fetch(url, {method: "post", payload: {chat_id: String(CHAT_ID), text: message, parse_mode: "HTML"}});
+  } catch (e) {}
+}
+
+function handleTrialLogic(deviceId) {
+  var lock = LockService.getScriptLock();
+  if (!lock.tryLock(15000)) return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "Server sibuk." })).setMimeType(ContentService.MimeType.JSON);
+  
+  try { 
+    var ss = SpreadsheetApp.getActiveSpreadsheet();
+    var trialSheet = ss.getSheetByName(TRIAL_SHEET_NAME);
+    if (!trialSheet) { trialSheet = ss.insertSheet(TRIAL_SHEET_NAME); trialSheet.getRange("A1:E1").setValues([["DeviceId", "LoginCount", "MaxLimit", 2, "Default"]]); }
+    
+    var data = trialSheet.getDataRange().getValues();
+    var defaultTrialLimit = 2; 
+    if (data.length > 0 && data[0][3]) defaultTrialLimit = parseInt(data[0][3], 10);
+    
+    var userRow = -1, loginCount = 0, maxLimit = 0;
+    for (var i = 1; i < data.length; i++) {
+      if (data[i][0] == deviceId) { userRow = i + 1; loginCount = parseInt(data[i][1], 10)||0; maxLimit = parseInt(data[i][2], 10)||0; break; }
+    }
+    
+    var result = {};
+    if (userRow === -1) { 
+      var sisa = Math.max(0, defaultTrialLimit - 1);
+      trialSheet.appendRow([deviceId, 1, defaultTrialLimit]);
+      result = { status: "success", message: "Trial sisa " + sisa + "x.", expiryDate: "Trial", remainingLogins: sisa };
+      sendTelegramNotification("🚀 TRIAL BARU\n<b>Device:</b> " + deviceId);
+    } else if (loginCount < maxLimit) { 
+      var sisa = maxLimit - (loginCount + 1);
+      trialSheet.getRange(userRow, 2).setValue(loginCount + 1);
+      result = { status: "success", message: "Trial sisa " + sisa + "x.", expiryDate: "Trial", remainingLogins: sisa };
+      sendTelegramNotification("🚀 TRIAL ULANG\n<b>Device:</b> " + deviceId);
+    } else { 
+      result = { status: "error", message: "Masa trial habis." };
+      sendTelegramNotification("❌ TRIAL HABIS\n<b>Device:</b> " + deviceId);
+    }
+    return ContentService.createTextOutput(JSON.stringify(result)).setMimeType(ContentService.MimeType.JSON);
+  } catch (e) {
+    return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "Error: " + e.message })).setMimeType(ContentService.MimeType.JSON);
+  } finally { lock.releaseLock(); }
+}
+
+function doGet(e) {
+  var maintCheck = isSystemInMaintenance();
+  if (maintCheck.active) return ContentService.createTextOutput(JSON.stringify({status: "maintenance", message: maintCheck.message})).setMimeType(ContentService.MimeType.JSON);
+
+  var token = e.parameter.token;
+  var deviceId = e.parameter.deviceId; 
+  
+  if (token === "TRIAL_REQUEST") {
+    if (!deviceId) return ContentService.createTextOutput(JSON.stringify({ status: "error", message: "No DeviceId" })).setMimeType(ContentService.MimeType.JSON);
+    return handleTrialLogic(deviceId);
+  }
+  
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(SHEET_NAME);
+  var dataRange = sheet.getRange(1, 1, sheet.getLastRow(), 5); 
+  var values = dataRange.getValues();
+  var result = { status: "error", message: "Token tidak ditemukan" };
+  var today = new Date(); today.setHours(0, 0, 0, 0); 
+
+  for (var i = 0; i < values.length; i++) {
+    if (values[i][0] == token) {
+      var lock = LockService.getScriptLock();
+      if (!lock.tryLock(15000)) { result.status = "error"; result.message = "Server sibuk."; break; }
+      
+      try {
+        var rowData = sheet.getRange(i + 1, 1, 1, 5).getValues()[0];
+        var expiryDate = new Date(rowData[1]); expiryDate.setHours(0, 0, 0, 0);
+        var storedDeviceId = rowData[2];
+        var loginLimit = rowData[3];
+        var loginCount = rowData[4];
+        
+        if (expiryDate < today) {
+          result.status = "error"; result.message = "Token Kadaluwarsa";
+        } else if (typeof loginLimit === 'number' && loginLimit > 0 && loginCount >= loginLimit) {
+          result.status = "error"; result.message = "Batas Login Habis";
+        } else if (storedDeviceId == "" || storedDeviceId == deviceId) {
+          var newCount = (typeof loginCount === 'number' ? loginCount : 0) + 1;
+          if (storedDeviceId == "") sheet.getRange(i + 1, 3).setValue(deviceId); 
+          sheet.getRange(i + 1, 5).setValue(newCount); 
+          
+          result.status = "success"; result.message = "Token Valid";
+          result.expiryDate = Utilities.formatDate(expiryDate, "GMT+7", "dd MMMM yyyy");
+          result.remainingLogins = (typeof loginLimit === 'number' && loginLimit > 0) ? (loginLimit - newCount) : "Unlimited";
+          sendTelegramNotification("✅ LOGIN SUKSES\n<b>Token:</b> " + token);
+        } else {
+          result.status = "error"; result.message = "Token terkunci di device lain.";
+          sendTelegramNotification("❌ LOGIN GAGAL (Device Beda)\n<b>Token:</b> " + token);
+        }
+      } catch (e) { result.status = "error"; result.message = "Error: " + e.message; }
+      finally { lock.releaseLock(); }
+      break;
+    }
+  }
+  return ContentService.createTextOutput(JSON.stringify(result)).setMimeType(ContentService.MimeType.JSON);
+}
+
+function doPost(e) {
+  // ROUTING POST REQUEST
+  // Jika ada parameter 'action=admin', arahkan ke handler Admin
+  // Jika 'action=submitOrder', arahkan ke order
+  
+  try {
+    var data = JSON.parse(e.postData.contents);
+    
+    // --- CEK MAINTENANCE UNTUK USER BIASA (Kecuali Admin) ---
+    // Admin tetap harus bisa akses meski maintenance ON
+    if (data.action !== 'admin') {
+      var maintCheck = isSystemInMaintenance();
+      if (maintCheck.active) {
+        return ContentService.createTextOutput(JSON.stringify({status: "maintenance", message: maintCheck.message})).setMimeType(ContentService.MimeType.JSON);
+      }
+    }
+    
+    // HANDLER
+    if (data.action === 'admin') {
+      return handleAdminRequest(data);
+    } else if (data.action === 'submitOrder') {
+      return handleOrderSubmit(data);
+    }
+    
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Unknown Action"})).setMimeType(ContentService.MimeType.JSON);
+    
+  } catch (error) {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Error POST: " + error.message})).setMimeType(ContentService.MimeType.JSON);
+  }
+}
+
+function handleOrderSubmit(data) {
+  var caption = "<b>🔔 ORDER TOKEN BARU</b>\n\n<b>Device ID:</b> <code>" + data.deviceId + "</code>\n";
+  var cleanNumber = String(data.whatsapp).trim().replace(/[^0-9]/g, ''); 
+  if (cleanNumber.startsWith('0')) cleanNumber = '62' + cleanNumber.substring(1);
+  caption += "<b>WA:</b> <a href='https://wa.me/" + cleanNumber + "'>" + data.whatsapp + "</a>\n";
+  caption += "<b>Paket:</b> " + data.tier + " | <b>Harga:</b> " + data.price;
+  
+  var imageBlob = Utilities.newBlob(Utilities.base64Decode(data.image.split(',')[1]), 'image/png', 'bukti.png'); 
+  try {
+    UrlFetchApp.fetch("https://api.telegram.org/bot" + ORDER_BOT_TOKEN + "/sendPhoto", {
+      'method': 'post',
+      'payload': { 'chat_id': String(ORDER_CHAT_ID), 'caption': caption, 'parse_mode': 'HTML', 'photo': imageBlob }
+    });
+    return ContentService.createTextOutput(JSON.stringify({status: "success", message: "Order terkirim"})).setMimeType(ContentService.MimeType.JSON);
+  } catch (err) {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: "Gagal kirim: " + err.message})).setMimeType(ContentService.MimeType.JSON);
+  }
+}
